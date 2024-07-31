@@ -25,12 +25,27 @@ This project served as a practical learning experience, allowing for:
    git clone [https://github.com/](https://github.com/)<>/hangman.git
    ```
 2. **Install Dependencies**
-  ```bash
+
+   ```bash
    cd hangman
    npm install
-  ```
-3. **Start the Server**
+   ```
+4. **Start the Server**
+
   ```bash
    npm start
-
   ```
+## Project Status
+
+This project is complete as a learning exercise. There are currently no planned updates or feature additions.
+
+## Potential Enhancements
+
+- **Word Categories:** Introduce word categories (e.g., animals, countries) to diversify gameplay.
+- **Difficulty Levels:** Implement difficulty settings with varying numbers of allowed guesses.
+- **Visual Feedback:** Enhance the UI with animations or visual cues for correct/incorrect guesses.
+- **Multiplayer Mode:** Allow players to challenge each other in a multiplayer version.
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
